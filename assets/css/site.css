@@ -1,0 +1,84 @@
+﻿h2 {
+    color: #1c1d26;
+}
+
+#header {
+    background-color: #1c1d26;
+}
+
+.image.avatar48 {
+    width: 180px;
+    height: 180px;
+    background: none;
+}
+
+.image.avatar48 img {
+    width: 180px;
+    height: 180px;
+}
+
+#logo {
+    margin: 0.8em 1.5em 1.5em 1.5em;
+}
+
+#logo .image {
+    position: relative;
+}
+
+#main > section.one {
+    background-color: #e6f9ff;
+    background-image: none;
+    color: #1c1d26;
+}
+
+#main > section.three {
+    background-color: #f0f1f4;
+    background-image: url('../../images/LagoMunicipalArarasSP.JPG');
+    background-size: cover;
+    color: #1c1d26;
+}
+
+#main > section.three .container {
+    background-color: #F5F5FA;
+    border-radius: 5px;
+    padding: 10px;
+    color: #1c1d26;
+}
+
+#main > section.two {
+    background-color: #e6f9ff;
+    color: #1c1d26;
+}
+
+.\34 u, .\34 u\24 {
+    width: 100%;
+}
+
+.image.fit {
+     width: 50%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.item header {
+    background: #1c1d26;
+    color: #fff;
+}
+
+.item header h2 {
+    background: #1c1d26;
+    color: #fff;
+}
+
+.item {
+    background: #1c1d26;
+}
+
+#main > section.four {
+    background-color: #e6f9ff;
+    color: #1c1d26;
+}
+
+#footer {
+    background: #1c1d26;
+}
